@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @safalb1
-- 👀 I’m interested in All Technology related stuffs, coding and programming.
+- 👀 I’m interested in All Technology kinds of stuff, coding and programming.
 - 🌱 I’m learning and growing along.....
-- 💞️ I’m looking to collaborate on every types of I.T. stuffs.
+- 💞️ I’m looking to collaborate on every type of I.T. piece of stuff.
 - 📫 How to reach me safalb1@outlook.com
 
 <!---
